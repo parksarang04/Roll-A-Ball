@@ -352,12 +352,12 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"C:/Program Files/Unity 2022.3.18f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity 2022.3.18f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/AccelerationPlatform.cs"
-"Assets/CameraController.cs"
-"Assets/CoinController.cs"
-"Assets/Movement3D.cs"
-"Assets/ParticleAutoDestroyer.cs"
-"Assets/PlayerController.cs"
+"Assets/script/AccelerationPlatform.cs"
+"Assets/script/CameraController.cs"
+"Assets/script/CoinController.cs"
+"Assets/script/Movement3D.cs"
+"Assets/script/ParticleAutoDestroyer.cs"
+"Assets/script/PlayerController.cs"
 -langversion:9.0
 
 /deterministic

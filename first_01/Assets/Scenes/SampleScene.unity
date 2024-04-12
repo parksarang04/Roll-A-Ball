@@ -155,8 +155,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d3272eedd07bbb478cc0c58dad9b21f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  accelForce: 1000
-  direction: {x: 1, y: 0, z: 0}
+  accelerationForce: 1000
+  accelerationDirection: {x: 1, y: 0, z: 0}
 --- !u!65 &197135184
 BoxCollider:
   m_ObjectHideFlags: 0
